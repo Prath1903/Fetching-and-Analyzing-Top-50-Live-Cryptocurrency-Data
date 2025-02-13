@@ -1,0 +1,8 @@
+flask
+requests
+pandas
+python-dotenv
+flask-cors
+gunicorn
+dropbox 
+openpyxl 
