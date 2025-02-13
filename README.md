@@ -41,7 +41,7 @@ To run the standalone script and have regular updated data in Excel, follow thes
 
 **Clone the Repository**:
 ``` 
-git clone https://github.com/Nandan-W/cryptocurrency_data_listings_python_Scripts_and_backend.git
+git clone https://github.com/cryptocurrency_data_listings_python_Scripts_and_backend.git
 ```
 
 **Install Dependencies**:
